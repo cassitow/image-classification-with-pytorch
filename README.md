@@ -1,2 +1,2 @@
 # pytorch-img-classification
- Capstone project
+Pytorch Capstone project
