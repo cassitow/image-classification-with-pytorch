@@ -21,5 +21,10 @@ This project focuses on image classification using deep learning techniques, par
 
 To get started with this project, you can clone the repository using the following command:
 
-```bash
-git clone https://github.com/cassitow/image-classification-with-augmentation.git
+```bash git clone https://github.com/cassitow/image-classification-with-augmentation.git```
+
+Then, navigate to the project directory:
+```cd image-classification-with-augmentation```
+
+Install the required dependencies by running:
+```pip install -r requirements.txt```
