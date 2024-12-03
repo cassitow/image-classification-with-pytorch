@@ -33,22 +33,22 @@ This project is part of an academic assignment and is available for educational 
 
 ## Contributing
 We welcome contributions to this project! To contribute, follow these steps:
-1. Fork the repository:
+1. Fork the repository:     
 ```Click the "Fork" button at the top right of the repository to create a copy of the project on your GitHub account.```
 
-2. Create your feature branch:
+2. Create your feature branch:     
 After forking the repository, clone your version locally and create a new branch:
 ```git checkout -b feature/new-feature```
 
-3. Commit your changes:
+3. Commit your changes:     
 Make your changes and commit them with a descriptive message:
 ```git commit -m 'Add new feature'```
 
-4. Push to the branch:
+4. Push to the branch:     
 Push your changes to your forked repository:
 ```git push origin feature/new-feature```
 
-5. Open a Pull Request:
+5. Open a Pull Request:    
 Go to the original repository and open a pull request with a description of the changes you've made.
 
 <hr>
