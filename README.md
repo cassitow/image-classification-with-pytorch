@@ -29,7 +29,7 @@ This project focuses on image classification using deep learning techniques, par
 ```pip install -r requirements.txt```
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is part of an academic assignment and is available for educational purposes | Fanshawe College
 
 ## Contributing
 We welcome contributions to this project! To contribute, follow these steps:
