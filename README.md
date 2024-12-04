@@ -3,7 +3,7 @@
 This project focuses on image classification using deep learning techniques, particularly leveraging data augmentation to improve model performance. The model is built using PyTorch and trained on a dataset of images, with various augmentations applied to enhance generalization and robustness.
 
 ## Features
-- **Image Classification**: The model classifies images into predefined categories.
+- **Image Classification**: The model classifies images into predefined categories using the dataset STL-10.
 - **Data Augmentation**: A variety of data augmentation techniques (like random cropping, flipping, etc.) are used to increase the diversity of the training set and reduce overfitting.
 - **Convolutional Neural Network (CNN)**: A simple CNN model is used for image classification.
 - **Model Evaluation**: The project includes functionality to evaluate model performance with metrics such as accuracy, precision, recall, and F1-score.
