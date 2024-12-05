@@ -20,10 +20,10 @@ This project focuses on image classification using deep learning techniques, par
 ## Git Installation
 
 1. To get started with this project, you can clone the repository using the following command:      
-```git clone https://github.com/cassitow/image-classification-with-augmentation.git```
+```git clone https://github.com/cassitow/image-classification-with-pytorch.git```
 
 2. Then, navigate to the project directory:    
-```cd image-classification-with-augmentation```
+```cd image-classification-with-pytorch```
 
 3. Install the required dependencies by running:     
 ```pip install -r requirements.txt```
