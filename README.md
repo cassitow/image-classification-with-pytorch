@@ -1,4 +1,5 @@
 # Image Classification with PyTorch 
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/bed739a0-e35b-447d-9b2d-cbc56392b66c">
 
 This project focuses on image classification using deep learning techniques, particularly leveraging data augmentation to improve model performance. The model is built using PyTorch and trained on a dataset of images, with various augmentations applied to enhance generalization and robustness.
 
